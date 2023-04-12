@@ -1,0 +1,26 @@
+.eda{
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    margin: auto;
+    padding: 10px;
+}
+.kartocka{
+    border: 2px solid rgb(5, 106, 248);
+    box-shadow: 10px 5px 5px rgb(69, 147, 244);
+    border-radius: 10px;
+    width: 450px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+}
+.all{
+    text-align: left;
+    padding: 10px;
+}
+.clubs{
+    display: grid;
+    grid-template-columns: 600px 600px;
+    gap: 20px;
+    margin-left: 120px;
+    }
